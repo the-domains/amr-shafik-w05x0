@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Testing Tagline]]></title>
         <description><![CDATA[Testing Tagline]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amr-shafik-w05x0/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 16:48:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 16:48:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amr-shafik-w05x0/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78beec8e-bc66-4b16-8742-01192233fcd3.jpg">]]></description>
+            <link>https://thegrid.ai/amr-shafik-w05x0/f4eb4523-df2d-40bf-903f-19fe86ddcda6/index.html</link>
+            <guid isPermaLink="false">f4eb4523-df2d-40bf-903f-19fe86ddcda6</guid>
+            <pubDate>Tue, 26 Jul 2016 16:48:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Testing 12345]]></title>
             <description><![CDATA[<article><h1>Testing 12345</h1><p>Testing 1 2 3, this is cool</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c40dc16-8b04-42a0-84b7-8f715328972b.jpg"></article>]]></description>
-            <link>undefinedtesting-12345/index.html</link>
+            <link>https://thegrid.ai/amr-shafik-w05x0/testing-12345/index.html</link>
             <guid isPermaLink="false">250dadf9-be27-4fa9-aed7-491a9821fc0a</guid>
             <pubDate>Tue, 26 Jul 2016 16:48:12 GMT</pubDate>
         </item>
